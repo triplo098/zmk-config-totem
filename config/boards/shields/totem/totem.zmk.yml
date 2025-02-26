@@ -3,7 +3,7 @@ id: totem
 name: TOTEM
 type: shield
 url: https://github.com/GEIGEIGEIST/TOTEM
-requires: [seeeduino_xiao_esp32s3]
+requires: [xiao_esp32c3]
 features:
   - keys
 siblings:

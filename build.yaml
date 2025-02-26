@@ -1,6 +1,6 @@
 include:
-  - board: seeeduino_xiao_esp32s3
+  - board: xiao_esp32c3
     shield: totem_left
-  - board: seeeduino_xiao_esp32s3
+  - board: xiao_esp32c3
     shield: totem_right
 # there is no settingsreset (needed) for the XIAO
